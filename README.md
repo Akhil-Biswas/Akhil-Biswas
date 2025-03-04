@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Akhil Biswas</h1>
-<h3 align="center">I Learning from India</h3>
+<h1 align="center">Namaste 🙏,</h1> <h1 align="center"> I'm Akhil Biswas</h1>
+<!--<h3 align="center">I Learning from India</h3>-->
 
 - 🌱 I’m currently learning **Python**
 
