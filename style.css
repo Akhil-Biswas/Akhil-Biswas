@@ -1,4 +1,9 @@
-
+:root {
+    --primary-color: #3498db;
+    --background-color: #0d1117;
+    --font-size: 16px;
+    --heading-font-size: 24px;
+}
 /* General reset */
 * {
     margin: 0;
@@ -10,9 +15,10 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f9;
-    color: #333;
+    background-color: var(--background-color);
+    color: #f0f0f0f0;     
     padding: 20px;
+
 }
 
 h1,
@@ -28,19 +34,18 @@ h3 {
 
 h1 {
     font-size: 3rem;
-    color: #333;
     margin-bottom: 20px;
 }
 
 h3 {
     font-size: 2rem;
-    color: #555;
     margin-bottom: 20px;
 }
 
 /* Styling for the connect section */
 p {
     font-size: 1rem;
+    color: var(--primary-color);
     margin: 15px 0;
 }
 
