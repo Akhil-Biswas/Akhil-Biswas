@@ -1,3 +1,15 @@
+<div align="center">
+<pre style="color:#fc03d7;">
+ _____           _ _          
+|  __ \         | | |         
+| |__) |__ _  __| | |__   ___ 
+|  _  // _` |/ _` | '_ \ / _ \
+| | \ \ (_| | (_| | | | |  __/
+|_|  \_\__,_|\__,_|_| |_|\___|
+</pre>
+</div>
+<hr>
+
 <h1 align="center">Namaste 🙏,</h1> <h1 align="center"> I'm Akhil Biswas</h1>
 <!--<h3 align="center">I Learning from India</h3>-->
 
